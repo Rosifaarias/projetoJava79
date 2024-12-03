@@ -26,8 +26,7 @@ public class EntradaSaida {
 			temperatura = leia.nextFloat();
 		
 		
-		
-		// Processamento
+		// Processamento de dados
 			fahrenheit = temperatura * 1.8f + 32;
 			
 		
